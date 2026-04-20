@@ -62,7 +62,7 @@ class LoginPage:
     def verify_login_fail(self):
         #Wait for error message to appear
         error=self.page.locator("#loginErrorMessage:visible").first
-        error.wait_for(state="visible", timeout=20000)
+        error.wait_for(state="visible", timeout=30000)
         return error.is_visible()
 
     #Step 8: verify empty fields validation
