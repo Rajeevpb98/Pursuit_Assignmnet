@@ -1,0 +1,16 @@
+BASE_URL="https://dna-preprod.hashedin.com/pursuits/"
+USERNAME = "hashedintestuser108"
+PASSWORD = "Hashedintestuser108@12345"
+INVALID_PASSWORD = "anbc@123"
+
+# Manual Enter Values
+CLIENT_NAME="LLO Client"
+INDUSTRY="Technology Media and Telecom"
+SECTOR="Technology (Tech)"
+PURSUIT_NAME="Automation Pursuit"
+PROPOSAL_TYPE="RFI"
+TYPE_OF_PROJECT="Data Modernization"
+COUNTRY="India"
+BILLING_ARRANGEMENT="T&M"
+JUPITER_ID="JUP12345"
+DESCRIPTION="Create Pursuit automation testing"
